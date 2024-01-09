@@ -17,3 +17,4 @@ rootProject.name = "appTest"
 include(":app")
 include(":ch6_view2")
 include(":ch7_layout")
+include(":ch8_event")
