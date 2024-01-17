@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Purple colors -->
+    <color name="purple_500">#9C27B0</color> <!-- 밝은 보라색 -->
+    <color name="purple_700">#7B1FA2</color> <!-- 진한 보라색 -->
+
+    <!-- Teal colors -->
+    <color name="teal_200">#80CBC4</color> <!-- 부드러운 청록색 -->
+    <color name="teal_700">#00796B</color> <!-- 진한 청록색 -->
+</resources>
